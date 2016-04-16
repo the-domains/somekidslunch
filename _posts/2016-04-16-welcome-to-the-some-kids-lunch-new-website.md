@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Welcome to the Some Kid's Lunch new website!"
-datePublished: '2016-04-16T18:53:49.045Z'
-dateModified: '2016-04-16T18:53:16.074Z'
+datePublished: '2016-04-16T18:59:59.692Z'
+dateModified: '2016-04-16T18:59:46.223Z'
 title: Voices
 author: []
 sourcePath: _posts/2016-04-16-welcome-to-the-some-kids-lunch-new-website.md
