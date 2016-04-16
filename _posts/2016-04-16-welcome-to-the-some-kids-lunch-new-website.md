@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Welcome to the Some Kid's Lunch new website!"
-datePublished: '2016-04-16T17:12:08.662Z'
-dateModified: '2016-04-16T17:11:28.120Z'
-title: ''
+datePublished: '2016-04-16T18:53:49.045Z'
+dateModified: '2016-04-16T18:53:16.074Z'
+title: Voices
 author: []
+sourcePath: _posts/2016-04-16-welcome-to-the-some-kids-lunch-new-website.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-welcome-to-the-some-kids-lunch-new-website.md
-published: true
 url: welcome-to-the-some-kids-lunch-new-website/index.html
 _type: Article
 
