@@ -1,0 +1,28 @@
+name: somekidslunch
+favicon: null
+layout_spectrum: 0.43376646749675274
+typography_spectrum: 0.8411145959980786
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.33676684903912246
+  lightness: 0.04079180723056197
+  saturation: 0.4776370383333415
+  rhythmicContrast: 0.6912090126425028
+purpose: []
