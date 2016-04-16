@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[somekidslunch]]></title>
+        <description><![CDATA[somekidslunch]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Apr 2016 17:12:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ea67471-4989-41ee-a158-7a237f0795a0.jpg">]]></description>
+            <link>undefinedwelcome-to-the-some-kids-lunch-new-website/index.html</link>
+            <guid isPermaLink="false">2bf7fa06-f5cd-4420-9692-3517171fbe59</guid>
+            <pubDate>Sat, 16 Apr 2016 17:12:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
