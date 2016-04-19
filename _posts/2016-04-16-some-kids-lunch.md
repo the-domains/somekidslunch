@@ -6,10 +6,12 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-19T11:52:21.419Z'
-dateModified: '2016-04-19T11:52:11.892Z'
+datePublished: '2016-04-19T11:56:34.410Z'
+dateModified: '2016-04-19T11:56:12.155Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-16-some-kids-lunch.md
 published: true
 authors: []
